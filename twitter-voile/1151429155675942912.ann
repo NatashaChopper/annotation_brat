@@ -1,0 +1,6 @@
+T1	maritime 55 64	#monofoil
+T2	maritime 65 71	#gonet
+T3	bateau 55 64	#monofoil
+A1	position T3 milieu
+T4	bateau 65 71	#gonet
+A2	position T4 milieu

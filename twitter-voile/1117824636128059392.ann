@@ -1,0 +1,6 @@
+T1	maritime 3 13	#catamaran
+T2	bateau 3 13	#catamaran
+A1	position T2 milieu
+T3	maritime 69 81	#disparition
+T4	detresse 69 81	#disparition
+A2	position T4 fin

@@ -1,0 +1,6 @@
+T1	maritime 22 32	#SaintMalo
+T2	lieu 22 32	#SaintMalo
+A1	position T2 milieu
+T3	maritime 0 19	#BranlebasDeRégates
+T4	evenement 0 19	#BranlebasDeRégates
+A2	position T4 debut

@@ -1,0 +1,6 @@
+T1	non-maritime 0 6	#vidéo
+T2	non-maritime 7 16	#insolite
+T3	maritime 23 31	#baleine
+T4	autre 23 31	#baleine
+T5	non-maritime 48 55	#Brest 
+A2	position T4 milieu

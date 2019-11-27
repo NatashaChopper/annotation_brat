@@ -1,0 +1,6 @@
+T1	maritime 52 60	#voilier
+T2	bateau 52 60	#voilier
+A1	position T2 milieu
+T3	non-maritime 75 82	#volcan
+T4	non-maritime 83 89	#VIDEO
+T5	non-maritime 24 34	#Stromboli

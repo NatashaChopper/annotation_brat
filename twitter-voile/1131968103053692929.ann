@@ -1,0 +1,6 @@
+T1	maritime 217 226	#naufrage
+T2	detresse 217 226	#naufrage
+A1	position T2 fin
+T3	maritime 227 237	#sauvetage
+T4	detresse 227 237	#sauvetage
+A2	position T4 fin

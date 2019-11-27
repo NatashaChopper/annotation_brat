@@ -1,0 +1,5 @@
+T1	non-maritime 0 8	#Athènes
+T2	non-maritime 31 36	#taxe
+T3	maritime 50 60	#plaisance
+T4	autre 50 60	#plaisance
+A1	position T4 fin

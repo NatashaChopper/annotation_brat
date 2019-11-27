@@ -1,0 +1,4 @@
+T1	non-maritime 0 6	#VIDEO
+T2	maritime 9 16	#Hawaii
+T3	lieu 9 16	#Hawaii
+A1	position T3 milieu

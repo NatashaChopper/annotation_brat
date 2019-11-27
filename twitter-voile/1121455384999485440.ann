@@ -1,0 +1,6 @@
+T1	maritime 76 85	#Gitana17
+T2	bateau 76 85	#Gitana17
+A1	position T2 fin
+T3	maritime 86 92	#Ultim
+T4	classe 86 92	#Ultim
+A2	position T4 fin

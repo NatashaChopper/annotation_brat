@@ -1,0 +1,4 @@
+T1	non-maritime 0 6	#VIDEO
+T2	maritime 68 82	#SolitaireURGO
+T3	evenement 68 82	#SolitaireURGO
+A1	position T3 fin

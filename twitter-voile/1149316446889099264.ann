@@ -1,0 +1,9 @@
+T1	maritime 11 20	#naufrage
+T2	detresse 11 20	#naufrage
+A1	position T2 milieu
+T3	maritime 26 36	#catamaran
+T4	bateau 26 36	#catamaran
+A2	position T4 milieu
+T5	maritime 53 63	#Australie
+T6	lieu 53 63	#Australie
+A3	position T6 milieu

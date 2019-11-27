@@ -1,0 +1,9 @@
+T1	maritime 74 90	#roadtotokyo2020
+T2	evenement 74 90	#roadtotokyo2020
+A1	position T2 fin
+T3	maritime 91 99	#olympic
+T4	evenement 91 99	#olympic
+A2	position T4 fin
+T5	maritime 100 109	#enoshima
+T6	lieu 100 109	#enoshima
+A3	position T6 fin

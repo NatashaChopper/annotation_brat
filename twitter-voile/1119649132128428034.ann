@@ -1,0 +1,9 @@
+T1	maritime 93 97	#spi
+T2	evenement 93 97	#spi
+A1	position T2 fin
+T3	maritime 98 104	#spiOF
+T4	evenement 98 104	#spiOF
+T5	maritime 105 111	#ETF26
+T6	classe 105 111	#ETF26
+A2	position T6 fin
+A3	position T4 fin

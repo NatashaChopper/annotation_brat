@@ -1,0 +1,5 @@
+T1	maritime 0 14	#SolitaireURGO
+T2	evenement 0 14	#SolitaireURGO
+A1	position T2 debut
+T3	non-maritime 15 21	#Video
+T4	non-maritime 22 31	#insolite

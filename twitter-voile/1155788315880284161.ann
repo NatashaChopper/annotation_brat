@@ -1,0 +1,7 @@
+T1	non-maritime 0 6	#vidéo
+T2	maritime 11 17	#épave
+T3	bateau 11 17	#épave
+A1	position T3 milieu
+T4	maritime 58 67	#Baltique
+T5	lieu 58 67	#Baltique
+A2	position T5 fin

@@ -1,0 +1,7 @@
+T1	non-maritime 78 84	#orage
+T2	maritime 112 121	#naufrage
+T3	detresse 112 121	#naufrage
+A1	position T3 milieu
+T4	maritime 160 167	#suisse
+T5	lieu 160 167	#suisse
+A2	position T5 fin

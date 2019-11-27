@@ -1,0 +1,6 @@
+T1	maritime 162 179	#RolexFastnetRace
+T2	evenement 162 179	#RolexFastnetRace
+A1	position T2 fin
+T3	maritime 180 186	#Ultim
+T4	classe 180 186	#Ultim
+A2	position T4 fin

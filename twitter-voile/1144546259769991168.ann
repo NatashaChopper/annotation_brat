@@ -1,0 +1,6 @@
+T1	maritime 30 43	#Porquerolles
+T2	lieu 30 43	#Porquerolles
+A1	position T2 milieu
+T3	maritime 68 88	#PorquerollesClassic
+T4	evenement 68 88	#PorquerollesClassic
+A2	position T4 fin

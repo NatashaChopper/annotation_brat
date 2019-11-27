@@ -1,0 +1,12 @@
+T1	maritime 0 10	#Sauvetage
+T2	detresse 0 10	#Sauvetage
+A1	position T2 debut
+T3	maritime 61 68	#mysong
+T4	bateau 61 68	#mysong
+A2	position T4 fin
+T5	maritime 79 90	#superyacht
+T6	bateau 79 90	#superyacht
+A3	position T6 fin
+T7	maritime 69 78	#baltic30
+T8	evenement 69 78	#baltic30
+A4	position T8 fin

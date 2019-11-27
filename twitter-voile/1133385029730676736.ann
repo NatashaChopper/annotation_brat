@@ -1,0 +1,5 @@
+T1	maritime 0 11	#Hydroptere
+T2	bateau 0 11	#Hydroptere
+A1	position T2 debut
+T3	non-maritime 90 99	#Encheres
+T4	non-maritime 100 106	#miami

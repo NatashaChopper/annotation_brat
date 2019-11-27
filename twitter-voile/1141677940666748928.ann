@@ -1,0 +1,7 @@
+T1	non-maritime 32 38	#orage
+T2	maritime 79 85	#BOM19
+T3	evenement 79 85	#BOM19
+A1	position T3 fin
+T4	maritime 86 93	#geneva
+T5	lieu 86 93	#geneva
+A2	position T5 fin

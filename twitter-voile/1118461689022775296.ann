@@ -1,0 +1,6 @@
+T1	maritime 32 41	#trimaran
+T2	bateau 32 41	#trimaran
+A1	position T2 milieu
+T3	maritime 103 110	#diam24
+T4	classe 103 110	#diam24
+A2	position T4 fin

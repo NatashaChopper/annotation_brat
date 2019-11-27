@@ -1,0 +1,7 @@
+T1	non-maritime 0 6	#VIDEO
+T2	maritime 25 32	#Trombe
+T3	autre 25 32	#Trombe
+A1	position T3 milieu
+T4	maritime 67 74	#Bastia
+T5	lieu 67 74	#Bastia
+A2	position T5 fin

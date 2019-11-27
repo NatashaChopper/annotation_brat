@@ -1,0 +1,9 @@
+T1	maritime 45 57	#Noirmoutier
+T2	lieu 45 57	#Noirmoutier
+A1	position T2 fin
+T3	maritime 58 68	#Sauvetage
+T4	detresse 58 68	#Sauvetage
+A2	position T4 fin
+T5	maritime 86 91	#SNSM
+T6	organisation 86 91	#SNSM
+A3	position T6 fin

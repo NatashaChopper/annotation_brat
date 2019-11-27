@@ -1,0 +1,4 @@
+T1	non-maritime 0 9	#exclusif
+T2	maritime 92 105	#theoceanrace
+T3	evenement 92 105	#theoceanrace
+A1	position T3 fin

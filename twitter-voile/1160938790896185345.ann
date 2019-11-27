@@ -1,0 +1,4 @@
+T1	non-maritime 0 6	#vidéo
+T2	maritime 15 25	#chavirage
+T3	detresse 15 25	#chavirage
+A1	position T3 milieu

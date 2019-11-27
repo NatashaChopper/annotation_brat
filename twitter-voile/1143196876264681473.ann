@@ -1,0 +1,4 @@
+T1	non-maritime 0 6	#Video
+T2	maritime 64 76	#newyorkcity
+T3	lieu 64 76	#newyorkcity
+A1	position T3 fin

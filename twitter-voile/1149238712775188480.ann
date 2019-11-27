@@ -1,0 +1,4 @@
+T1	non-maritime 0 10	#Reportage
+T2	maritime 30 37	#régate
+T3	evenement 30 37	#régate
+A1	position T3 milieu

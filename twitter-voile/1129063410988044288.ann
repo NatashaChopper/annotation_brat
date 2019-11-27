@@ -1,0 +1,8 @@
+T1	maritime 98 106	#Bahamas
+T2	lieu 98 106	#Bahamas
+A1	position T2 fin
+T3	maritime 59 69	#catamaran
+T4	bateau 59 69	#catamaran
+A2	position T4 milieu
+T5	non-maritime 41 49	#Ouragan
+T6	non-maritime 50 55	#IRMA

@@ -1,0 +1,6 @@
+T1	non-maritime 0 6	#VIDEO
+T2	maritime 55 62	#Nantes
+T3	lieu 55 62	#Nantes
+A1	position T3 milieu
+T4	evenement 96 110	#SolitaireURGO
+A2	position T4 fin

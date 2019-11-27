@@ -1,0 +1,10 @@
+T1	non-maritime 5 15	#Entretien
+T2	maritime 21 35	#KevinPeponnet
+T3	autre 21 35	#KevinPeponnet
+A1	position T3 milieu
+T4	maritime 117 128	#FRAsailing
+T5	organisation 117 128	#FRAsailing
+A2	position T5 fin
+T6	maritime 129 140	#470sailing
+T7	classe 129 140	#470sailing
+A3	position T7 fin

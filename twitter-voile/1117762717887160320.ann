@@ -1,0 +1,6 @@
+T1	maritime 0 14	#foilsjournées
+T2	evenement 0 14	#foilsjournées
+A1	position T2 debut
+T3	maritime 51 60	#quiberon
+T4	lieu 51 60	#quiberon
+A2	position T4 fin

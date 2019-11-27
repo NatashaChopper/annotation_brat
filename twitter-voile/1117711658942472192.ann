@@ -1,0 +1,4 @@
+T1	non-maritime 52 60	#musique
+T2	maritime 42 48	#voile
+T3	equipement 42 48	#voile
+A1	position T3 milieu

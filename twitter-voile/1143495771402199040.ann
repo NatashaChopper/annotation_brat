@@ -1,0 +1,8 @@
+T1	non-maritime 0 6	#Video
+T2	non-maritime 7 16	#Insolite
+T3	maritime 104 110	#Cowes
+T4	autre 104 110	#Cowes
+A1	position T4 fin
+T5	maritime 90 103	#Culturevoile
+T6	autre 90 103	#Culturevoile
+A2	position T6 fin

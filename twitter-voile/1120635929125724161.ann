@@ -1,0 +1,10 @@
+T1	non-maritime 0 6	#Video
+T2	maritime 32 36	#SUP
+T3	activite 32 36	#SUP
+A1	position T3 milieu
+T4	maritime 54 61	#paddle
+T5	maritime 54 61	#paddle
+A2	position T5 fin
+T6	maritime 62 72	#Finistere
+T7	lieu 62 72	#Finistere
+A3	position T7 fin

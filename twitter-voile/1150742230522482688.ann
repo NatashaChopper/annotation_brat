@@ -1,0 +1,7 @@
+T1	non-maritime 0 6	#VIDEO
+T2	maritime 124 131	#VG2020
+T3	evenement 124 131	#VG2020
+A1	position T3 fin
+T4	maritime 106 123	#IMOCAGlobeSeries
+T5	evenement 106 123	#IMOCAGlobeSeries
+A2	position T5 fin

@@ -1,0 +1,4 @@
+T1	non-maritime 0 6	#video
+T2	maritime 86 99	#SodeboUltim3
+T3	bateau 86 99	#SodeboUltim3
+A1	position T3 fin

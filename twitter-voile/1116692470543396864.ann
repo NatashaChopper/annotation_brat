@@ -1,0 +1,9 @@
+T1	maritime 15 21	#yacht
+T2	bateau 15 21	#yacht
+A1	position T2 milieu
+T3	maritime 66 72	#SY300
+T4	classe 66 72	#SY300
+A2	position T4 fin
+T5	maritime 73 83	#megayacht
+T6	bateau 73 83	#megayacht
+A3	position T6 fin

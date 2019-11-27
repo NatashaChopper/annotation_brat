@@ -1,0 +1,9 @@
+T1	maritime 75 85	#minienmai
+T2	evenement 75 85	#minienmai
+A1	position T2 fin
+T3	maritime 99 110	#classeMini
+T4	classe 99 110	#classeMini
+A2	position T4 fin
+T5	maritime 86 98	#@ClasseMini
+T6	organisation 86 98	#@ClasseMini
+A3	position T6 fin

@@ -1,0 +1,9 @@
+T1	maritime 87 100	#méditerranée
+T2	lieu 87 100	#méditerranée
+A1	position T2 fin
+T3	maritime 127 141	#accidentenmer
+T4	detresse 127 141	#accidentenmer
+A2	position T4 fin
+T5	maritime 101 112	#Superyacht
+T6	bateau 101 112	#Superyacht
+A3	position T6 fin

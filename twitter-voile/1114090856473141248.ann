@@ -1,0 +1,6 @@
+T1	maritime 96 112	#goldengloberace
+T2	evenement 96 112	#goldengloberace
+A1	position T2 fin
+T3	maritime 113 117	#GGR
+T4	evenement 113 117	#GGR
+A2	position T4 fin

@@ -1,0 +1,7 @@
+T1	non-maritime 0 6	#VIDEO
+T2	maritime 57 66	#windsurf
+T3	activite 57 66	#windsurf
+A1	position T3 fin
+T4	maritime 7 23	#WindsurfProject
+T5	organisation 7 23	#WindsurfProject
+A2	position T5 debut

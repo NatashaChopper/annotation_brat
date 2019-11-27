@@ -1,0 +1,12 @@
+T1	maritime 44 54	#Marseille
+T2	lieu 44 54	#Marseille
+A1	position T2 milieu
+T3	maritime 97 106	#kitesurf
+T4	activite 97 106	#kitesurf
+A2	position T4 fin
+T5	maritime 107 120	#kiteboarding
+T6	lieu 107 120	#kiteboarding
+A3	position T6 fin
+T7	maritime 136 146	#kiteboard
+T8	activite 136 146	#kiteboard
+A4	position T8 fin

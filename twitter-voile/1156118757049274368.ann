@@ -1,0 +1,6 @@
+T1	maritime 67 77	#sauvetage
+T2	detresse 67 77	#sauvetage
+A1	position T2 fin
+T3	maritime 112 122	#CrossEtel
+T4	organisation 112 122	#CrossEtel
+A2	position T4 fin

@@ -1,0 +1,6 @@
+T1	maritime 0 15	#DefiAtlantique
+T2	evenement 0 15	#DefiAtlantique
+A1	position T2 debut
+T3	maritime 16 27	#MadeinMidi
+T4	organisation 16 27	#MadeinMidi
+A2	position T4 debut

@@ -1,0 +1,4 @@
+T1	maritime 25 34	#trimaran
+T2	bateau 25 34	#trimaran
+A1	position T2 milieu
+T3	non-maritime 0 9	#Insolite

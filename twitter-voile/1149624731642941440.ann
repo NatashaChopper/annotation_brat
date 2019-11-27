@@ -1,0 +1,7 @@
+T1	non-maritime 0 9	#parution
+T2	non-maritime 21 30	#magazine
+T3	non-maritime 57 65	#kiosque
+T4	non-maritime 81 90	#sommaire
+T5	maritime 111 121	#croisière
+T6	bateau 111 121	#croisière
+A1	position T6 fin

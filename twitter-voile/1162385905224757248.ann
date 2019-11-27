@@ -1,0 +1,13 @@
+T1	non-maritime 0 6	#Video
+T2	maritime 34 40	#foils
+T3	equipement 34 40	#foils
+A1	position T3 milieu
+T4	maritime 65 77	#AmericasCup
+T5	evenement 65 77	#AmericasCup
+A2	position T5 fin
+T6	maritime 78 83	#ETNZ
+T7	organisation 78 83	#ETNZ
+A3	position T7 fin
+T8	maritime 84 89	#AC75
+T9	classe 84 89	#AC75
+A4	position T9 fin

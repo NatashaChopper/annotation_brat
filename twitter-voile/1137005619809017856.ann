@@ -1,0 +1,18 @@
+T1	maritime 0 14	#accidentenmer
+T2	detresse 0 14	#accidentenmer
+A1	position T2 debut
+T3	maritime 15 24	#accident
+T4	detresse 15 24	#accident
+A2	position T4 debut
+T5	maritime 75 80	#SNSM
+T6	organisation 75 80	#SNSM
+A3	position T6 milieu
+T7	maritime 85 99	#SablesdOlonne
+T8	lieu 85 99	#SablesdOlonne
+A4	position T8 fin
+T9	maritime 100 116	#SauveteursenMer
+T10	organisation 100 116	#SauveteursenMer
+A5	position T10 fin
+T11	maritime 117 127	#sauvetage
+T12	detresse 117 127	#sauvetage
+A6	position T12 fin
